@@ -5,7 +5,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 6
+        "patch": 7
     },
     "keywords": [
         "Uniswap",
@@ -33,11 +33,11 @@
             "name": "Stable coin",
             "description": "coin stable usede on ecosysteme RealToken"
         },
-        "S-F": {
+        "SF": {
             "name": "Single family",
             "description": "Single Family RealT Property"
         },
-        "M-F": {
+        "MF": {
             "name": "Multi family",
             "description": "Multi family RealT property"
         }
@@ -51,7 +51,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "S-F",
+                "SF",
                 "ETH"
             ]
         },
@@ -63,7 +63,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "S-F",
+                "SF",
                 "ETH"
             ]
         },
@@ -75,7 +75,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "S-F",
+                "SF",
                 "ETH"
             ]
         },
@@ -87,7 +87,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "S-F",
+                "SF",
                 "ETH"
             ]
         },
@@ -99,7 +99,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "M-F",
+                "MF",
                 "ETH"
             ]
         },
@@ -111,7 +111,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "M-F",
+                "MF",
                 "ETH"
             ]
         },
@@ -123,7 +123,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "M-F",
+                "MF",
                 "ETH"
             ]
         },
@@ -135,7 +135,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "S-F",
+                "SF",
                 "ETH"
             ]
         },
@@ -147,7 +147,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "S-F",
+                "SF",
                 "ETH"
             ]
         },
@@ -159,7 +159,7 @@
             "decimals": 18,
             "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
             "tags": [
-                "S-F",
+                "SF",
                 "ETH"
             ]
         }
