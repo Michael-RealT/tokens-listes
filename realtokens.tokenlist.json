@@ -3,44 +3,165 @@
     "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
     "timestamp": "2020-11-23T20:00:00+00:00",
     "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 5
+        "major": 1,
+        "minor": 0,
+        "patch": 6
     },
-    "keywords": [],
+    "keywords": [
+        "Uniswap",
+        "DeFi",
+        "RealT"
+    ],
     "tags": {
-      "ETH": {
-         "name": "Etherum",
-         "description": "Realtoken on Etherum network, chaineID 1"
-      },
-      "MATIC": {
-        "name": "Matic network",
-        "description": "Realtoken on Matic network, chaineID 137"
-     },
-     "mumbai": {
-      "name": "Mumbai TestNet",
-      "description": "Realtoken on Mumbai TestNet network, chaineID 80001"
-   },
-     "gorli": {
-      "name": "Gorli TestNet",
-      "description": "Realtoken on Gorli TestNet network, chaineID 5"
-    }, 
-      "stablecoin": {
-         "name": "Stable coin",
-         "description": "coin stable usede on ecosysteme RealToken"
-      }
+        "ETH": {
+            "name": "Etherum",
+            "description": "Realtoken on Etherum network, chaineID 1"
+        },
+        "MATIC": {
+            "name": "Matic network",
+            "description": "Realtoken on Matic network, chaineID 137"
+        },
+        "mumbai": {
+            "name": "Mumbai TestNet",
+            "description": "Realtoken on Mumbai TestNet network, chaineID 80001"
+        },
+        "gorli": {
+            "name": "Gorli TestNet",
+            "description": "Realtoken on Gorli TestNet network, chaineID 5"
+        },
+        "stablecoin": {
+            "name": "Stable coin",
+            "description": "coin stable usede on ecosysteme RealToken"
+        },
+        "S-F": {
+            "name": "Single family",
+            "description": "Single Family RealT Property"
+        },
+        "M-F": {
+            "name": "Multi family",
+            "description": "Multi family RealT property"
+        }
     },
     "tokens": [
-      {
-        "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
-        "chainId": 1,
-        "name": "9943 Marlowe",
-        "symbol": "9943-MARLOWE",
-        "decimals": 18,
-        "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
-        "tags": [
-          "ETH"
-        ]
-      }
+        {
+            "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
+            "chainId": 1,
+            "name": "9943 Marlowe",
+            "symbol": "9943-MARLOWE",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "S-F",
+                "ETH"
+            ]
+        },
+        {
+            "address": "0xeD42CeDcADbFbCAA3E6F411B09567C2C0b5AD28F",
+            "chainId": 1,
+            "name": "9336 Patton",
+            "symbol": "9336-PATTON",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "S-F",
+                "ETH"
+            ]
+        },
+        {
+            "address": "0x395c47a421c254ae42253764a7f56e0ee0cddac5",
+            "chainId": 1,
+            "name": "20200 Lesure",
+            "symbol": "20200-LESURE",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "S-F",
+                "ETH"
+            ]
+        },
+        {
+            "address": "0x43688910273f199B8AE2cA018c13918fb3D37B58",
+            "chainId": 1,
+            "name": "5942 Audubon",
+            "symbol": "5942-AUDUBON",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "S-F",
+                "ETH"
+            ]
+        },
+        {
+            "address": "0x22c8ecf727c23422f47093b562ec53c139805301",
+            "chainId": 1,
+            "name": "16200 Fullerton",
+            "symbol": "16200-FULLERTON",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "M-F",
+                "ETH"
+            ]
+        },
+        {
+            "address": "0x5807CA447851C98569c567963B25B1C83D41BeBc",
+            "chainId": 1,
+            "name": "10024-28 Appoline",
+            "symbol": "10024-28-APPOLINE",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "M-F",
+                "ETH"
+            ]
+        },
+        {
+            "address": "0x6Fd016CCc4611F7BAB1DD3267334cB0216Ef47f9",
+            "chainId": 1,
+            "name": "8342 Schaefer",
+            "symbol": "8342-SCHAEFER",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "M-F",
+                "ETH"
+            ]
+        },
+        {
+            "address": "0xfC89f1b932079b462Ef9C8757dE5A28E387b847b",
+            "chainId": 1,
+            "name": "18276 Appoline",
+            "symbol": "18276-APPOLINE",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "S-F",
+                "ETH"
+            ]
+        },
+        {
+            "address": "0x74d2cb65B1158300c3e6BeA149d68509C7B2425d",
+            "chainId": 1,
+            "name": "25097 Andover",
+            "symbol": "25097-ANDOVER",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "S-F",
+                "ETH"
+            ]
+        },
+        {
+            "address": "0xbecaea7aa3629d4b7ddccf3a973bef09ff34d4b6",
+            "chainId": 1,
+            "name": "15634 Liberal",
+            "symbol": "15634-LIBERAL",
+            "decimals": 18,
+            "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+            "tags": [
+                "S-F",
+                "ETH"
+            ]
+        }
     ]
-  }
+}
