@@ -1,11 +1,11 @@
 {
     "name": "RealToken",
     "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
-    "timestamp": "2020-11-23T13:00:00+00:00",
+    "timestamp": "2020-11-23T20:00:00+00:00",
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 4
+      "patch": 5
     },
     "keywords": [],
     "tags": {
@@ -35,7 +35,7 @@
         "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
         "chainId": 1,
         "name": "9943 Marlowe",
-        "symbol": "RT-S001",
+        "symbol": "9943-MARLOWE",
         "decimals": 18,
         "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
         "tags": [
