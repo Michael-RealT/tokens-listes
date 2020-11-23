@@ -5,13 +5,9 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 2
+      "patch": 3
     },
-    "keywords": [
-      "uniswap",
-      "defi",
-      "realt"
-    ],
+    "keywords": [],
     "tags": {
       "ETH": {
          "name": "Etherum",
