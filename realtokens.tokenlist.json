@@ -42,7 +42,7 @@
         "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
         "chainId": 1,
         "name": "9943 Marlowe",
-        "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+        "symbol": "RT-S001",
         "decimals": 18,
         "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
         "tags": [
@@ -53,7 +53,7 @@
         "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
         "chainId": 137,
         "name": "9943 Marlowe",
-        "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+        "symbol": "RT-S001",
         "decimals": 18,
         "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
         "tags": [
@@ -64,7 +64,7 @@
         "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
         "chainId": 80001,
         "name": "9943 Marlowe",
-        "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+        "symbol": "RT-S001",
         "decimals": 18,
         "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
         "tags": [
@@ -75,7 +75,7 @@
         "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
         "chainId": 5,
         "name": "9943 Marlowe",
-        "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+        "symbol": "RT-S001",
         "decimals": 18,
         "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
         "tags": [
