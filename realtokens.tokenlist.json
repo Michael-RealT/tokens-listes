@@ -1,0 +1,86 @@
+{
+    "name": "RealToken",
+    "timestamp": "2020-11-23T12:00:00+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "keywords": [
+      "uniswap",
+      "defi",
+      "realt"
+    ],
+    "tags": {
+      "ETH": {
+         "name": "Etherum",
+         "description": "Realtoken on Etherum network",
+         "chaineID" : 1
+      },
+      "MATIC": {
+        "name": "Matic network",
+        "description": "Realtoken on Matic network",
+        "chaineID" : 137
+     },
+     "mumbai": {
+      "name": "Mumbai TestNet network",
+      "description": "Realtoken on Mumbai TestNet network",
+      "chaineID" : 80001
+   },
+     "gorli": {
+      "name": "Görli TestNet network",
+      "description": "Realtoken on Görli TestNet network",
+      "chaineID" : 5
+    }, 
+      "stablecoin": {
+         "name": "Stable coin",
+         "description": "coin stable usede on ecosystème RealToken"
+      }
+    },
+    "tokens": [
+      {
+        "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
+        "chainId": 1,
+        "name": "9943 Marlowe",
+        "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+        "decimals": 18,
+        "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+        "tags": [
+          "ETH"
+        ]
+      },
+      {
+        "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
+        "chainId": 137,
+        "name": "9943 Marlowe",
+        "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+        "decimals": 18,
+        "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+        "tags": [
+          "MATIC"
+        ]
+      },
+      {
+        "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
+        "chainId": 80001,
+        "name": "9943 Marlowe",
+        "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+        "decimals": 18,
+        "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+        "tags": [
+          "mumbai"
+        ]
+      },
+      {
+        "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
+        "chainId": 5,
+        "name": "9943 Marlowe",
+        "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+        "decimals": 18,
+        "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
+        "tags": [
+          "gorli"
+        ]
+      }
+    ]
+  }
