@@ -21,16 +21,16 @@
         "description": "Realtoken on Matic network, chaineID 137"
      },
      "mumbai": {
-      "name": "Mumbai TestNet network",
+      "name": "Mumbai TestNet",
       "description": "Realtoken on Mumbai TestNet network, chaineID 80001"
    },
      "gorli": {
-      "name": "Görli TestNet network",
-      "description": "Realtoken on Görli TestNet network, chaineID 5"
+      "name": "Gorli TestNet",
+      "description": "Realtoken on Gorli TestNet network, chaineID 5"
     }, 
       "stablecoin": {
          "name": "Stable coin",
-         "description": "coin stable usede on ecosystème RealToken"
+         "description": "coin stable usede on ecosysteme RealToken"
       }
     },
     "tokens": [
