@@ -41,39 +41,6 @@
         "tags": [
           "ETH"
         ]
-      },
-      {
-        "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
-        "chainId": 137,
-        "name": "9943 Marlowe",
-        "symbol": "RT-S001",
-        "decimals": 18,
-        "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
-        "tags": [
-          "MATIC"
-        ]
-      },
-      {
-        "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
-        "chainId": 80001,
-        "name": "9943 Marlowe",
-        "symbol": "RT-S001",
-        "decimals": 18,
-        "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
-        "tags": [
-          "mumbai"
-        ]
-      },
-      {
-        "address": "0xe5f7ef61443fc36ae040650aa585b0395aef77c8",
-        "chainId": 5,
-        "name": "9943 Marlowe",
-        "symbol": "RT-S001",
-        "decimals": 18,
-        "logoURI": "https://realt.co/wp-content/uploads/2019/01/cropped-RealToken_Favicon.png",
-        "tags": [
-          "gorli"
-        ]
       }
     ]
   }
