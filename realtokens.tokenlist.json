@@ -14,19 +14,19 @@
     "tags": {
       "ETH": {
          "name": "Etherum",
-         "description": "Realtoken on Etherum network, chaineID : 1"
+         "description": "Realtoken on Etherum network, chaineID 1"
       },
       "MATIC": {
         "name": "Matic network",
-        "description": "Realtoken on Matic network, chaineID : 137"
+        "description": "Realtoken on Matic network, chaineID 137"
      },
      "mumbai": {
       "name": "Mumbai TestNet network",
-      "description": "Realtoken on Mumbai TestNet network, chaineID : 80001"
+      "description": "Realtoken on Mumbai TestNet network, chaineID 80001"
    },
      "gorli": {
       "name": "Görli TestNet network",
-      "description": "Realtoken on Görli TestNet network, chaineID : 5"
+      "description": "Realtoken on Görli TestNet network, chaineID 5"
     }, 
       "stablecoin": {
          "name": "Stable coin",
